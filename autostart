@@ -81,5 +81,8 @@ xset b off &
 (sleep 3s && /usr/bin/conky -d -q) &
 
 ## Run GNote
-(sleep 3s && gnote) &
+#(sleep 3s && gnote) &
+
+## Run Tomboy
+(sleep 3s && tomboy) &
 
