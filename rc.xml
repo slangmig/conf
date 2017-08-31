@@ -373,7 +373,7 @@
         <command>terminator</command>
       </action>
     </keybind>
-    <keybind key="W-b">
+    <keybind key="W-w">
       <action name="Execute">
         <startupnotify>
           <enabled>true</enabled>
